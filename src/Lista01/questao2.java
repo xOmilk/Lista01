@@ -1,3 +1,5 @@
+package Lista01;
+
 import java.util.Scanner;
 
 /*Construa um algoritmo utilizando a representação de fluxograma que calcule e informe a quantidade de gasolina que será preciso colocar no carro e

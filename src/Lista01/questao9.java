@@ -1,3 +1,5 @@
+package Lista01;
+
 import java.util.Scanner;
 
 /*Faça um algoritmo utilizando a representação de fluxograma que calcule o salário líquido de um professor.

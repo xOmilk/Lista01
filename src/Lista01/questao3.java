@@ -1,4 +1,4 @@
-/*Faça um algoritmo utilizando a representação de fluxograma que solicite ao usuário sua idade e informe se o mesmo já pode tirar carteira de motorista.
+package Lista01;/*Faça um algoritmo utilizando a representação de fluxograma que solicite ao usuário sua idade e informe se o mesmo já pode tirar carteira de motorista.
   O usuário somente poderá tirar a carteira de motorista se a idade for maior que 18 anos. */
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-/*Faça um algoritmo utilizando a representação de fluxograma que solicite ao usuário 2 números diferentes e mostre o maior deles. */
+package Lista01;/*Faça um algoritmo utilizando a representação de fluxograma que solicite ao usuário 2 números diferentes e mostre o maior deles. */
 
 import java.util.Scanner;
 public class questao5 {
